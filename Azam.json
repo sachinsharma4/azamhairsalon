@@ -1,0 +1,23 @@
+{
+    "dir": "ltr",
+    "lang": "en-us",
+    "name": "Azamhairsalon",
+    "short_name": "AzamSalon",
+    "scope": "/",
+    "display": "standalone",
+    "start_url": "http://azamhairsalon.ml/index.html",
+    "background_color": "red",
+    "theme_color": "red",
+    "description": "Play Computer Games On Android   \n Other Related Sutf",
+    "orientation": "any",
+    "icons": [ { "src":"./loo.jpg"
+    ,"type":"image/jpg"
+   , "size":"192×192"
+    },
+{ "src":"./loo.jpg"
+    ,"type":"image/jpg"
+   , "size":"512×512"
+    }
+    
+        ]
+}
